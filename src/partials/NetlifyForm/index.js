@@ -63,7 +63,7 @@ class NetlifyForm extends React.Component {
         <h3>Missing your AI-Startup?</h3>
         <form
           method="post"
-          name="AIStartups"
+          name="mysubmissions"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
         >
