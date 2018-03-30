@@ -15,7 +15,3 @@ or
   npm
   npm run dev
 ```
-
-## Demo Link
-
-https://quirky-leavitt-2c4a76.netlify.com
